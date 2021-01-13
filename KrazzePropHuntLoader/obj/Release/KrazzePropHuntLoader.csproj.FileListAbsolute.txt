@@ -1,0 +1,15 @@
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\bin\Release\KrazzePropHuntLoader.exe.config
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\bin\Release\KrazzePropHuntLoader.exe
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\bin\Release\KrazzePropHuntLoader.pdb
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader.csprojAssemblyReference.cache
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader.csproj.ResolveComReference.cache
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\MainWindow.g.cs
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\App.g.cs
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader_MarkupCompile.cache
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader_MarkupCompile.lref
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\MainWindow.baml
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader.g.resources
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader.Properties.Resources.resources
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader.csproj.GenerateResource.cache
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader.exe
+C:\Users\Pandhazar\source\repos\KrazzePropHuntLoader\KrazzePropHuntLoader\obj\Release\KrazzePropHuntLoader.pdb
